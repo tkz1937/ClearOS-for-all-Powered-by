@@ -6,6 +6,7 @@
 
 $app['basename'] = 'shell_right';
 $app['version'] = '2.10.1';
+$app['version']='2.10.2';
 $app['release'] = 'itot';
 $app['vendor'] = 'itot'; // e.g. Acme Co
 $app['packager'] = 'Packager'; // e.g. Gordie Howe
@@ -20,7 +21,7 @@ $app['powered_by'] = array(
 		'packages' =>  array(
 			'spackages name' => array(
 				'name' => 'name of application',
-				'version' => '2.10.1',
+				'version' => '2.10.2',
 				'url' => '',
 	), 
 	),

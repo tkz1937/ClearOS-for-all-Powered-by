@@ -4,11 +4,11 @@
 // General information
 /////////////////////////////////////////////////////////////////////////////
 
-$app['basename'] = 'shell_right';
+$app['basename'] = 'name of application';
 $app['version'] = '2.10.1';
 $app['version']='2.10.2';
-$app['release'] = 'itot';
-$app['vendor'] = 'itot'; // e.g. Acme Co
+$app['release'] = '';
+$app['vendor'] = 'name of vandor'; // e.g. Acme Co
 $app['packager'] = 'Packager'; // e.g. Gordie Howe
 $app['license'] = 'MyLicense'; // e.g. 'GPLv3';
 $app['license_core'] = 'MyLicense'; // e.g. 'LGPLv3';

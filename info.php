@@ -30,6 +30,6 @@ $app['powered_by'] = array(
 // App name and categories
 /////////////////////////////////////////////////////////////////////////////
 
-$app['name'] = lang('shell_right_app_name');
+$app['name'] = lang('name_of_yourapplication_app_name');
 $app['category'] = lang('base_category_system');
 $app['subcategory'] = 'Developer'; // e.g. lang('base_subcategory_settings');
